@@ -28,3 +28,6 @@ An interactive Excel dashboard exploring customer demographics and bike purchasi
 ## Tools
 
 Microsoft Excel
+
+![Dashboard Preview](images/bike-sales-dashboard.png)
+
